@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# SustainBench
+# SustainBench-lab
 {: .fs-9 }
 A suite of sustainability benchmarks targeting the UN Sustainable Development Goals (SDGs) including No Poverty, Zero Hunger, Good Health and Well-Being, Quality Education, Clean Water and Sanitation, Climate Action, and Life on Land.
 {: .fs-6 .fw-300 }
