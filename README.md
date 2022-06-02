@@ -77,7 +77,7 @@ This code was tested on a system with the following specifications:
 
 - operating system: Ubuntu 16.04.7 LTS
 - CPU: Intel(R) Xeon(R) CPU E5-2620 v4
-- memory (RAM): 125 GB
+- memory (RAM): 126 GB
 - disk storage: 5 TB
 - GPU: NVIDIA P100 GPU
 
