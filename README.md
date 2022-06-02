@@ -15,7 +15,7 @@ SustainBench is a collection of 15 benchmark tasks across 7 SDGs, including task
 3. encourage the development of novel machine learning methods where improved model performance facilitates progress towards the SDGs.
 
 
-## Table of Contents
+## Table of Content
 
 * [Overview](#overview)
 * [Dataloaders](#dataloaders)
